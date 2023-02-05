@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Busticket</string>
+    <string name="hider1">Общая стоимость взрослых билетов</string>
+    <string name="hider2">Общая стоимость детских билетов</string>
+    <string name="hider3">Общая стоимость пенсионерских билетов</string>
+    <string name="hider4">Общая стоимость всех билетов</string>
+</resources>
